@@ -25,7 +25,7 @@ Instalasi id ;
     PS: Jika Anda sudah menginstal KMS atau aktivasi lisensi Digital Lama,
     a) hapus aktivasi KMS di cmd sebagai administrator lalu ketik "cscript slmgr.vbs / upk & cscript slmgr.vbs / cpky"
     b) hapus aktivasi lisensi Digital Lama di cmd sebagai administrator lalu ketik "slmgr / upk"
-    HARAP LAKUKAN INI SEBELUM ANDA INSTAL LISENSI AKTIVASI DIGITAL DI SKRIP INI
+    HARAP LAKUKAN INI SEBELUM ANDA MENGINSTAL LISENSI AKTIVASI DIGITAL DI SKRIP INI
 4. Pilih 1, tunggu lalu klik ENTER.
 5. Periksa status Jalankan lagi Activation.cmd Script dan pilih 2 untuk melihat status aktivasi
    Jika Teraktifkan maka SELESAI ~ ENJOY ~
