@@ -1,7 +1,7 @@
 
 Installation en ;
 
-1. Download Zip or git clone https://github.com/Suyadnya/Wiindows-10-Digital-License.git
+1. Download Zip or git clone https://github.com/Suyadnya/Windows-10-Digital-License.git
 2. Extract Windows 10 Digital License.rar
 3. Run as Administrator Activate.cmd
    PS: If u already has KMS installed or Old Digital license activation,
@@ -19,7 +19,7 @@ Installation en ;
 
 Instalasi id ;
 
-1. Unduh Zip atau git clone https://github.com/Suyadnya/Wiindows-10-Digital-License.git
+1. Unduh Zip atau git clone https://github.com/Suyadnya/Windows-10-Digital-License.git
 2. Ekstrak Windows 10 Digital License.rar
 3. Jalankan sebagai Administrator Activate.cmd
     PS: Jika Anda sudah menginstal KMS atau aktivasi lisensi Digital Lama,
