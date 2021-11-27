@@ -1,9 +1,9 @@
 @echo off
 set ver=v5.2
-title Windows 10 Digital Aktivasyon %ver% by mephistooo2 - TNCTR.com
+title Windows 10 Digital Aktivation %ver% by wibawa
 mode con cols=70 lines=2
 color 4e
-echo YONETICI HAKLARI CAGIRILIYOR...
+echo Administrator right are called...
 
 fltmc >nul 2>&1 || (
   echo Set UAC = CreateObject^("Shell.Application"^) > "%temp%\GetAdmin.vbs"
