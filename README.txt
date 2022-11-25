@@ -12,10 +12,8 @@ Installation en ;
 5. Check status Run the Activation.cmd Script again and chose 2 to see the activation status 
    If activated then DONE ~ENJOY~
 
- any error that occure when installation and Also 
- for those who want to make a donation so that I can make software that is useful and interesting again, 
- please send a confirmation and sumbit it to my email at wibawas@protonmail.com
-
+Rememeber to give some star for this project so at least I've some achievement and appreciation for this open source project
+#knowledge is free
 
 Instalasi id ;
 
@@ -30,10 +28,8 @@ Instalasi id ;
 5. Periksa status Jalankan lagi Activation.cmd Script dan pilih 2 untuk melihat status aktivasi
    Jika Teraktifkan maka SELESAI ~ ENJOY ~
 
-  Jika ada error yang terjadi saat instalasi dan 
-  Bagi Yang ingin memberikan Donasi agar saya dapat membuat Software" yang bermanfaat dan menarik lagi 
-  silahkan kirim konfirmasi dan Masukkan ke email ini wibawas@protonmail.com
-
+Ingatlah untuk memberikan bintang untuk proyek ini jadi setidaknya saya mendaparkan apresiasi untuk proyek open source ini
+#pengetahuan itu gratis
 
 
 Created By Almighty Wibawa  
